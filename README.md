@@ -193,6 +193,6 @@ Conditions help ensure that actions are taken only when relevant.</p>
 
 <p>In the following project, we will look at example scenarios and study the lifecycle of a ticket from creation to resolution. </p>
 
-
+<h1>Thank you! &#127881; </h1>
 
 
